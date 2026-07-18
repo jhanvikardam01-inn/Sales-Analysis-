@@ -138,7 +138,7 @@ This dashboard helps business stakeholders:
 
 **Jhanvi Kardam**
 
-Btech 2nd year | Aspiring Data Analyst
+|Btech 2nd year | Aspiring Data Analyst |
 
 ---
 
